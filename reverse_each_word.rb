@@ -6,5 +6,4 @@ def reverse_each_word (string)
 reverse_string = element.reverse 
   end 
   reverse_string.join(" ")
-  reverse_string
 end
